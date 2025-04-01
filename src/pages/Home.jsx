@@ -6,7 +6,7 @@ import RightSidebar from "../components/RightSidebar";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "../styles.css";
 
-const API_KEY = "AIzaSyCVf9fvotZG6oYNkiLm6-A3U-s7W-oRJyo";
+const API_KEY = "API_KEY";
 const categories = {
   Trending: null,
   Music: "10",
