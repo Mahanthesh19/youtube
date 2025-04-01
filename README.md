@@ -1,8 +1,8 @@
 # Youtube Clone with React
 
-###This is a clone website developed using React JS to mimic the appearance and functionality of the Youtube application.
+This is a clone website developed using React JS to mimic the appearance and functionality of the Youtube application.
 
-##Features : 
+Features : 
 ### Similar appearance to Youtube
 ### Can display a list of video feed from the youtube
 ### The Videos can be played locally in the site.
@@ -53,6 +53,7 @@
 ## API:
 ### The videos and content is fetched by the Youtube v3 data api , using a API key with user quota of 10000 units per day for unpaid usage.
 ### It fetches the snippet consisting of video id and url , thumbnail url , statistics like views and likes, title, description , comments each with a unique id.
+Replace "API_KEY" with your authenticated API key.
 
 ## Authentication and Authorization:
 ### API is obtained by the authenticated google account via google cloud console.
